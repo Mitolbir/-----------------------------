@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+}
+h1{
+    color: red;
+}
+h2{
+    color: rgb(0, 4, 255);
+}
+a{
+    color: green;
+}
+a:hover{
+    color: purple;
+}
+img{
+    width: 300px;
+    margin-left: 50px;
+}
+.bigtext{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+}
