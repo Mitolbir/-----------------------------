@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+img{
+    width: 800px;
+}
+h1{
+    font-size: 50px;
+    margin-left: 200px;
+    font-style: italic;
+    color: rgb(0, 85, 160);
+}
+h2{
+    color: rgb(1, 1, 143);
+}
